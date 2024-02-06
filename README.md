@@ -48,7 +48,8 @@ This is a simple text-to-speech application built using Python and two libraries
 
 ## Screenshots
 
-[text to speech](https://github.com/jmugambwa1/Text-to-speech/assets/157279590/b2c6f694-7cd2-407c-ae1b-89994305929e)
+![text to speech](https://github.com/jmugambwa1/Text-to-speech/assets/157279590/f6f02ce1-080f-4a64-bed4-1d9f89ca3bff)
+
 
 
 ## License
