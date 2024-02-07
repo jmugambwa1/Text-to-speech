@@ -68,5 +68,3 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 ## Author
 
 Joel Mugambwa(https://github.com/jmugambwa1)
-
-Feel free to add more sections or details according to your specific project needs.
